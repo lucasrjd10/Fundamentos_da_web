@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<curriculo>
+    <dados_pessoais>
+        <nome>John Textor</nome>
+        <data_de_nascimento>01/01/1980</data_de_nascimento>
+        <email>john@email.com</email>
+        <telefone>(83)99999-9999</telefone>
+        <endereco>
+            <rua>Av. 1 de Maio, 720</rua>
+            <cidade>João Pessoa, PB</cidade>
+            <bairro>Jaguaribe</bairro>
+        </endereco>
+    </dados_pessoais>
+
+    <dados_profissionais>
+        <experiencias>
+            <empresa>
+                <nome_da_empresa>Space</nome_da_empresa>
+                <funcao>CEO</funcao>
+                <funcao>CTO</funcao>
+                <ano_na_empresa>2016 - atual</ano_na_empresa>
+            </empresa>
+
+            <empresa>
+                <nome_da_empresa>Tesla</nome_da_empresa>
+                <funcao>CEO</funcao>
+                <ano_na_empresa>2014 - atual</ano_na_empresa>
+            </empresa>
+            <competencias>
+                <competencia>JavaScript</competencia>
+                <competencia>CSS</competencia>
+                <competencia>HTML</competencia>
+                <competencia>XML</competencia>
+            </competencias>
+        </experiencias>
+    </dados_profissionais>
+
+
+    <dados_academicos>
+        <academia>
+            <nome_da_academia>Instituto Federal de Educação, Ciencia e Tecnologia da Paraiba</nome_da_academia>
+            <grau>Mestrado profissional em informática</grau>
+            <ano_na_academia>2016 - atual</ano_na_academia>
+            <nome_da_academia>Intituto Federal de Educação, Ciencia e Tecnologia da Paraiba</nome_da_academia>
+            <grau>Curso Superior em Tecnologia em Sistemas para Internet</grau>
+            <ano_na_academia>2010 - 2013</ano_na_academia>
+        </academia>
+    </dados_academicos> 
+
+</curriculo>
